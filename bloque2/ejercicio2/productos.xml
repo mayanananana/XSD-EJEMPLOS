@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto>
+        <nombre>Televisor</nombre>
+        <precio>299.99</precio>
+        <categoria>Electrónica</categoria>  
+    </producto>
+</productos>

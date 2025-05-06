@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animales>
+    <animal>
+        <nombre>Firulais</nombre>
+        <especie>Perro</especie>
+        <edad>5</edad>
+    </animal>
+    <animal>
+        <nombre>Olivia</nombre>
+        <especie>Gato</especie>
+        <edad>3</edad>
+    </animal>
+</animales>

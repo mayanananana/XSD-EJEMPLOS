@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- Definimos el elemento raíz -->
+    <xs:element name="mascotas">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- Definimos múltiples elementos "mascota" -->
+                <xs:element name="mascota" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <!-- Subelementos de cada mascota -->
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="especie" type="xs:string"/>
+                            <xs:element name="edad" type="xs:integer"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

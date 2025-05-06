@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiantes>
+    <estudiante>
+        <nombre>Juan Pérez</nombre>
+        <edad>20</edad>
+        <grado>Ingeniería</grado>
+    </estudiante>
+</estudiantes>

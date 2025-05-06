@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mascotas>
+    <mascota>
+        <nombre>Luna</nombre>
+        <especie>Perro</especie>
+        <edad>3</edad>
+    </mascota>
+    <mascota>
+        <nombre>Felix</nombre>
+        <especie>Gato</especie>
+        <edad>2</edad>
+    </mascota>
+</mascotas>
