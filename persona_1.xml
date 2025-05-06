@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona pais="España">
+    <nombre>Mayana</nombre>
+    <edad>21</edad>
+    <correo>mayana@example.com</correo>
+    <educacion>
+        <nivel>Bachillerato</nivel>
+        <nivel>FP</nivel>
+    </educacion>
+</persona>

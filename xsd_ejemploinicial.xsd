@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!-- Declaración del Namespace-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- Definición de elementos y atributos -->
+    <xs:element name="persona">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="nombre" type="xs:string" />
+                <xs:element name="edad" type="xs:integer"/>
+                <xs:element name="email" type="xs:string" />          
+            </xs:sequence>  
+            <xs:attribute name="pais" type="xs:string"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
